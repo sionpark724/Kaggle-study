@@ -17,5 +17,5 @@
 ### - 참고 자료 링크 [ 1.Tutorial ](https://kaggle-kr.tistory.com/18?category=868316)
       
       
-### 참여자
+### - 참여자
 @HyeJung-Hwang
