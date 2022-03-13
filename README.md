@@ -4,10 +4,13 @@
 
 ### - 데이터셋 :
 ![01](https://user-images.githubusercontent.com/79091824/158053990-25d8d7dc-6e75-4625-b6ca-e8ad0482674d.PNG)
-#### ( train데이터셋 이미지 입니다 )
+#### feature는 Pclass, Age, SibSp, Parch, Fare 이며, 예측하려는 target label 은 Survived 입니다.
 
 ### - EDA :
+#### 1. Pclass , Sex , Embarked 과 Survived 사이 관계
 
+#### 2. Age, Fare 와 Survived 사이 관계
+#### 3. Family( Parch와 SibSp ) 와 Survived 사이 관계
 ### - 사용 모델 : RandomForestClassifier 모델 
 
 ### - 정확도 :
