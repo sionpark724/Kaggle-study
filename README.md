@@ -2,7 +2,14 @@
 
 ## 1주차 : Titanic - Machine Learning from Disaster 🚢
 
-### - EDA, 머신러닝 모델로 분석
+### - EDA :
+
+### - 사용 모델 : RandomForestClassifier 모델 
+
+### - 정확도 :
+
+| Train |  83.21% |
+
       
 ### - Competition 링크[ 캐글 링크 ](https://www.kaggle.com/c/titanic)
       
