@@ -30,7 +30,7 @@
 
 < 승선 요금에 따른 생존자 분포 >
  
-### 3. Family( Parch와 SibSp ) 와 Survived 사이 관계
+### 3. Family ( Parch와 SibSp ) 와 Survived 사이 관계
 ![7](https://user-images.githubusercontent.com/79091824/158059865-ad39300f-3c75-42cd-a730-61ddcc9e7680.png)
 
 < 가족 수에 따른 생존자 분포 >
