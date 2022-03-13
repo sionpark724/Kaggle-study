@@ -2,6 +2,9 @@
 
 ## 1주차 : Titanic - Machine Learning from Disaster 🚢
 
+### - 데이터셋 :
+![01](https://user-images.githubusercontent.com/79091824/158053990-25d8d7dc-6e75-4625-b6ca-e8ad0482674d.PNG)
+
 ### - EDA :
 
 ### - 사용 모델 : RandomForestClassifier 모델 
