@@ -7,7 +7,7 @@
 #### feature는 Pclass, Age, SibSp, Parch, Fare 이며, 예측하려는 target label 은 Survived 입니다.
 
 ### - EDA :
-#### 1. Pclass , Sex , Embarked 과 Survived 사이 관계
+### 1. Pclass , Sex , Embarked 과 Survived 사이 관계
 ![2](https://user-images.githubusercontent.com/79091824/158059638-0e33d19a-df49-495b-a779-0c8b901b498a.png)
 < Pclass 분포 , Pclass 별 생존자 분포 >
  
@@ -18,14 +18,14 @@
 < 탑승 항구 위치에 따른 생존자, 사망자 분포 >
  
 
-#### 2. Age, Fare 와 Survived 사이 관계
+### 2. Age, Fare 와 Survived 사이 관계
 ![5](https://user-images.githubusercontent.com/79091824/158059787-4a6274fe-c50f-4b24-91b3-063982a2f16c.png)
 < 연령에 따른 생존자 분포 >
  
 ![6](https://user-images.githubusercontent.com/79091824/158059812-9fc71b2c-b916-4a05-b6d9-ce74f436a39a.png)
 < 승선 요금에 따른 생존자 분포 >
  
-#### 3. Family( Parch와 SibSp ) 와 Survived 사이 관계
+### 3. Family( Parch와 SibSp ) 와 Survived 사이 관계
 ![7](https://user-images.githubusercontent.com/79091824/158059865-ad39300f-3c75-42cd-a730-61ddcc9e7680.png)
 < 가족 수에 따른 생존자 분포 >
  
