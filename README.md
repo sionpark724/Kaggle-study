@@ -17,6 +17,7 @@
 ![4](https://user-images.githubusercontent.com/79091824/158059723-702b4a3f-621f-44be-943e-b7bc2d6b7449.png)
 < 탑승 항구 위치에 따른 생존자, 사망자 분포 >
  
+
 #### 2. Age, Fare 와 Survived 사이 관계
 ![5](https://user-images.githubusercontent.com/79091824/158059787-4a6274fe-c50f-4b24-91b3-063982a2f16c.png)
 < 연령에 따른 생존자 분포 >
