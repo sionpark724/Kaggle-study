@@ -4,6 +4,7 @@
 
 ### - 데이터셋 :
 ![01](https://user-images.githubusercontent.com/79091824/158053990-25d8d7dc-6e75-4625-b6ca-e8ad0482674d.PNG)
+#### ( train데이터셋 이미지 입니다 )
 
 ### - EDA :
 
