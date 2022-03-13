@@ -20,9 +20,11 @@
 
 ### 2. Age, Fare 와 Survived 사이 관계
 ![5](https://user-images.githubusercontent.com/79091824/158059787-4a6274fe-c50f-4b24-91b3-063982a2f16c.png)
+
 < 연령에 따른 생존자 분포 >
  
 ![6](https://user-images.githubusercontent.com/79091824/158059812-9fc71b2c-b916-4a05-b6d9-ce74f436a39a.png)
+
 < 승선 요금에 따른 생존자 분포 >
  
 ### 3. Family( Parch와 SibSp ) 와 Survived 사이 관계
