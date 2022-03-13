@@ -9,12 +9,15 @@
 ### - EDA :
 ### 1. Pclass , Sex , Embarked 과 Survived 사이 관계
 ![2](https://user-images.githubusercontent.com/79091824/158059638-0e33d19a-df49-495b-a779-0c8b901b498a.png)
+
 < Pclass 분포 , Pclass 별 생존자 분포 >
  
 ![3](https://user-images.githubusercontent.com/79091824/158059679-f0935070-8757-4f34-b59d-7a023d7f8f00.png)
+
 < 성별에 따른 생존자, 사망자 분포 >
  
 ![4](https://user-images.githubusercontent.com/79091824/158059723-702b4a3f-621f-44be-943e-b7bc2d6b7449.png)
+
 < 탑승 항구 위치에 따른 생존자, 사망자 분포 >
  
 
@@ -29,6 +32,7 @@
  
 ### 3. Family( Parch와 SibSp ) 와 Survived 사이 관계
 ![7](https://user-images.githubusercontent.com/79091824/158059865-ad39300f-3c75-42cd-a730-61ddcc9e7680.png)
+
 < 가족 수에 따른 생존자 분포 >
  
 ### - 사용 모델 : 사이킷런의 RandomForestClassifier 모델 
